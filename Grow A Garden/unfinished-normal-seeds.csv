@@ -1,0 +1,46 @@
+Name,SeedName,SeedRarity,StockChance,StockAmount,Price,PurchaseID,GiftPurchaseID,DisplayInShop,LayoutOrder,Asset,FruitIcon,GrowthTime
+Pineapple,"Pineapple Seed","Mythical",0,"0;0",100000000000000000,0,,false,17,"rbxassetid://138100842549491","rbxassetid://114657244974527",1
+Raspberry,"Raspberry Seed","Rare",0,"0;0",100000000000000000,0,,false,18,"rbxassetid://81243397976353","rbxassetid://114657244974527",1
+Peach,"Peach Seed","Mythical",0,"0;0",100000000000000000,0,,false,19,"rbxassetid://77644804908032","rbxassetid://114657244974527",1
+Papaya,"Papaya Seed","Legendary",0,"0;0",100000000000000000,0,,false,25,"rbxassetid://84439112219671","rbxassetid://114657244974527",1
+Banana,"Banana Seed","Mythical",0,"1;1",850000,3269001250,,false,12,"rbxassetid://77755436145668","rbxassetid://114657244974527",1
+Passionfruit,"Passionfruit Seed","Mythical",0,"0;0",100000000000000000,0,,false,24,"rbxassetid://94926423936775","rbxassetid://114657244974527",1
+Soul Fruit,"Soul Fruit Seed","Divine",0,"0;0",100000000000000000,0,,false,27,"rbxassetid://78400970650924","rbxassetid://114657244974527",1
+Cursed Fruit,"Cursed Fruit Seed","Divine",0,"0;0",100000000000000000,0,,false,26,"rbxassetid://99252370538611","rbxassetid://114657244974527",1
+Succulent,"Succulent Seed","Legendary",0,"0;0",100000000000000000,0,,false,26,"rbxassetid://101361653559631","rbxassetid://114657244974527",1
+Cranberry,"Cranberry Seed","Legendary",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://94500818907151","rbxassetid://114657244974527",1
+Durian,"Durian Seed","Legendary",0,"0;0",100000000000000000,0,,false,26,"rbxassetid://109127189445082","rbxassetid://114657244974527",1
+Eggplant,"Eggplant Seed","Mythical",0,"0;0",100000000000000000,0,,false,25,"rbxassetid://87258752513979","rbxassetid://114657244974527",1
+Lotus,"Lotus Seed","Divine",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://72809983873819","rbxassetid://114657244974527",1
+Venus Fly Trap,"Venus Fly Trap Seed","Divine",0,"0;0",100000000000000000,0,,false,26,"rbxassetid://91310215148426","rbxassetid://114657244974527",1
+Pear,"Pear Seed","Legendary",0,"0;0",100000000000000000,0,,false,20,"rbxassetid://114657244974527","rbxassetid://114657244974527",1
+Lemon,"Lemon Seed","Mythical",0,"0;0",100000000000000000,0,,false,22,"rbxassetid://114657244974527","rbxassetid://114657244974527",1
+Cherry Blossom,"Cherry Blossom Seed","Divine",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://114657244974527","rbxassetid://114657244974527",1
+Avocado,"Avocado Seed","Mythical",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://114657244974527","rbxassetid://114657244974527",1
+Nightshade,"Nightshade Seed","Uncommon",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://80927703847110","rbxassetid://88741110380160",1
+Glowshroom,"Glowshroom Seed","Rare",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://75020857068295","rbxassetid://78078293383933",1
+Mint,"Mint Seed","Rare",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://104143910415351","rbxassetid://111295568333221",1
+Moonflower,"Moonflower Seed","Legendary",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://103462302267487","rbxassetid://129052408900660",1
+Starfruit,"Starfruit Seed","Legendary",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://113550048066646","rbxassetid://88741110380160",1
+Moonglow,"Moonglow Seed","Mythical",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://76104073070657","rbxassetid://92952539625496",1
+Moon Blossom,"Moon Blossom Seed","Divine",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://139472070797639","rbxassetid://85827614943436",1
+Chocolate Carrot,"Chocolate Carrot Seed","Common",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://114657244974527","rbxassetid://114657244974527",1
+Red Lollipop,"Red Lollipop Seed","Legendary",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://114657244974527","rbxassetid://114657244974527",1
+Candy Sunflower,"Candy Sunflower Seed","Legendary",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://114657244974527","rbxassetid://114657244974527",1
+Easter Egg,"Easter Egg Seed","Mythical",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://114657244974527","rbxassetid://114657244974527",1
+Candy Blossom,"Candy Blossom Seed","Divine",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://114657244974527","rbxassetid://114657244974527",1
+Crimson Vine,"Crimson Vine Seed","Divine",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://114657244974527","rbxassetid://114657244974527",1
+Moon Melon,"Moon Melon Seed","Mythical",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://114657244974527","rbxassetid://114657244974527",1
+Blood Banana,"Blood Banana Seed","Mythical",0,"0;0",100000000000000000,0,,false,23,"rbxassetid://114657244974527","rbxassetid://114657244974527",1
+Celestiberry,"Celestiberry Seed","Mythical",0,"0;0",100000000000000000,3292232795,,false,23,"rbxassetid://126201609144472","rbxassetid://79823830387948",1
+Moon Mango,"Moon Mango Seed","Mythical",0,"0;0",100000000000000000,3292232443,,false,23,"rbxassetid://129936557516178","rbxassetid://94844334284183",1
+Rose,"Rose","Uncommon",0,"0;0",100000000000000000,3292232795,,false,23,"rbxassetid://98346997661821","",1
+Foxglove,"Foxglove","Rare",0,"0;0",100000000000000000,3292232795,,false,23,"rbxassetid://95187484637799","",1
+Pink Lily,"Pink Lily Seed","Mythical",0,"0;0",100000000000000000,3292232795,,false,23,"rbxassetid://132764861597503","",1
+Purple Dahlia,"Purple Dahlia Seed","Mythical",0,"0;0",100000000000000000,3292232795,,false,23,"rbxassetid://104619039467029","rbxassetid://79823830387948",1
+Sunflower,"Sunflower","Divine",0,"0;0",100000000000000000,3292232795,,false,23,"rbxassetid://105378743376322","",1
+Hive Fruit,"Hive Fruit","Divine",0,"0;0",100000000000000000,3292232795,,false,23,"rbxassetid://110610945467564","",1
+Dandelion,"Dandelion","Mythical",0,"0;0",100000000000000000,3292232795,,false,23,"","",1
+Lilac,"Lilac","Legendary",0,"0;0",100000000000000000,3292232795,,false,23,"rbxassetid://72416036873353","",1
+Nectarine,"Nectarine","Mythical",0,"0;0",100000000000000000,3292232795,,false,23,"","",1
+Ember Lily,"Ember Lily","Mythical",0,"0;0",100000000000000000,3292232795,,false,23,"","",1
