@@ -1,0 +1,21 @@
+Name,SeedName,SeedRarity,StockChance,StockAmount,Price,PurchaseID,GiftPurchaseID,DisplayInShop,LayoutOrder,Asset,FruitIcon,GrowthTime
+Carrot,"Carrot Seed","Common",1,"5;25",10,3248692171,3269339926,true,1,"rbxassetid://111869302762063","rbxassetid://111808451137805",1
+Strawberry,"Strawberry Seed","Common",1,"3;6",50,3248695947,3269339924,true,2,"rbxassetid://137537302014962","rbxassetid://74378273547859",1
+Blueberry,"Blueberry Seed","Uncommon",1,"1;5",400,3248690960,3269339931,true,3,"rbxassetid://135855481877645","rbxassetid://71345798241707",1
+Orange Tulip,"Orange Tulip","Uncommon",3,"10;25",600,3265927408,3269339925,true,4,"rbxassetid://137190290771460","rbxassetid://82303880837226",1
+Tomato,"Tomato Seed","Rare",1,"1;3",800,3248696942,3269339929,true,5,"rbxassetid://83094104056339","rbxassetid://137684825172236",1
+Corn,"Corn Seed","Rare",6,"2;4",1300,3248692845,3269339919,true,6,"rbxassetid://77278803247285","rbxassetid://83672513462287",1
+Daffodil,"Daffodil Seed","Rare",7,"4;7",1000,3265927978,3269339921,true,7,"rbxassetid://133785678549975","rbxassetid://99820436058162",1
+Watermelon,"Watermelon Seed","Legendary",8,"1;4",2500,3248697546,3269339904,true,8,"rbxassetid://124693176356567","rbxassetid://114381314987347",1
+Pumpkin,"Pumpkin Seed","Legendary",10,"1;3",3000,3248695199,3269339934,true,9,"rbxassetid://83019768390140","rbxassetid://88091808467980",1
+Apple,"Apple Seed","Legendary",14,"1;1",3250,3248716238,3269339923,true,10,"rbxassetid://82209441550638","rbxassetid://74877667823372",1
+Bamboo,"Bamboo Seed","Legendary",5,"10;20",4000,3261009117,3269339922,true,11,"rbxassetid://95294809175303","rbxassetid://91033803349257",1
+Coconut,"Coconut Seed","Mythical",20,"1;1",6000,3248744789,3269339918,true,13,"rbxassetid://103959110275847","rbxassetid://135321477950169",1
+Cactus,"Cactus Seed","Mythical",30,"1;5",15000,3260940714,3269339920,true,14,"rbxassetid://72660439274136","rbxassetid://135918568621376",1
+Dragon Fruit,"Dragon Fruit Seed","Mythical",50,"1;1",50000,3253012192,3269339909,true,16,"rbxassetid://100480428219453","rbxassetid://134494387120918",1
+Mango,"Mango Seed","Mythical",80,"1;1",100000,3259333414,3269339912,true,17,"rbxassetid://81302085731796","rbxassetid://80632913421879",2
+Grape,"Grape Seed","Divine",100,"1;1",850000,3261068725,3269339905,true,18,"rbxassetid://117347115145686","rbxassetid://116026952946757",1
+Mushroom,"Mushroom Seed","Divine",120,"13;25",150000,3273973729,3273973524,true,19,"rbxassetid://94262173627467","rbxassetid://120910099642804",1
+Pepper,"Pepper Seed","Divine",140,"1;1",1000000,3277675404,3277675837,true,20,"rbxassetid://136603359489022","rbxassetid://123388647334376",1
+Cacao,"Cacao Seed","Divine",160,"1;1",2500000,3282870834,3282871246,true,21,"rbxassetid://133824355805515","rbxassetid://92101177778874",1
+Beanstalk,"Beanstalk Seed","Prismatic",210,"1;1",10000000,3284390402,3284390954,true,22,"rbxassetid://129909329752826","rbxassetid://110487410542265",1
